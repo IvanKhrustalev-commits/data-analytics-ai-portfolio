@@ -8,6 +8,15 @@ For this project, I selected the __Brazilian E-commerce Public Dataset by Olist_
 I will use __Excel, SQL, Python, Tableau, and AI__ to explore the data, identify meaningful patterns, develop business insights, and provide actionable recommendations.
 
 ## Excel Analysis
+The Excel analysis includes:
+
+- Data preparation and cleaning
+- Exploratory data analysis
+- KPI development
+- Customer and order analysis
+- Dashboard development
+📊 [View / Download Excel Analysis](Excel/Olist_Ecommerce_Analysis.xlsx)
+
 ## SQL Analysis
 ## Python Analysis
 ## Tableau Dashboard
