@@ -6,3 +6,9 @@ For this project, I selected the __Brazilian E-commerce Public Dataset by Olist_
 [Kaggle Dataset — Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 I will use __Excel, SQL, Python, Tableau, and AI__ to explore the data, identify meaningful patterns, develop business insights, and provide actionable recommendations.
+
+## Excel Analysis
+## SQL Analysis
+## Python Analysis
+## Tableau Dashboard
+## AI Integration
